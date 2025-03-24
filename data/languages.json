@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "name": "Amharic",
+    "speakers": "Approximately 32 million",
+    "region": "Amhara Region, Addis Ababa, and throughout Ethiopia",
+    "script": "Ge'ez script (Fidel)",
+    "description": "Amharic is the official working language of Ethiopia and the second-most spoken Semitic language in the world after Arabic. It has been the language of the court and the dominant population group in Highland Ethiopia since the late 12th century. Amharic has its own unique alphabet derived from the Ge'ez script with 33 basic characters, each with seven forms depending on the vowel. The language is known for its complex verb system and SOV (subject-object-verb) word order.",
+    "audio": "/audio/amharic.mp3",
+    "phrases": [
+      { "original": "ሰላም", "transliteration": "Selam", "meaning": "Hello/Peace" },
+      { "original": "እንደምን አለህ/ሽ", "transliteration": "Endemin alleh/allesh", "meaning": "How are you? (m/f)" },
+      { "original": "አመሰግናለሁ", "transliteration": "Ameseginalehu", "meaning": "Thank you" },
+      { "original": "እሺ", "transliteration": "Eshi", "meaning": "Okay" },
+      { "original": "ደህና ሁን/ኝ", "transliteration": "Dehna hun/huny", "meaning": "Goodbye (to one person)" },
+      { "original": "እወዳለሁ", "transliteration": "Ewedalehu", "meaning": "I love you" }
+    ],
+    "culturalEvents": [
+      "Timkat (Epiphany) - January 19",
+      "Meskel (Finding of the True Cross) - September 27",
+      "Ethiopian New Year (Enkutatash) - September 11",
+      "Genna (Ethiopian Christmas) - January 7",
+      "Fasika (Ethiopian Easter)",
+      "Adwa Victory Day - March 2"
+    ],
+    "literaryWorks": [
+      "Kebra Nagast (Glory of Kings)",
+      "Fetha Nagast (Law of Kings)",
+      "Works of Tsegaye Gebre-Medhin",
+      "Modern novels by Haddis Alemayehu"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Oromo",
+    "speakers": "Approximately 30 million",
+    "region": "Oromia Region and parts of northern Kenya",
+    "script": "Latin alphabet (formerly Ge'ez script)",
+    "description": "Oromo is an Afroasiatic language spoken by the Oromo people in Ethiopia, northern Kenya, and parts of Somalia. It is the most widely spoken language in the Cushitic family. The Oromo language, also known as Afaan Oromoo, uses a Latin-based orthography officially adopted in the 1970s. It features a unique system of vowel harmony and is tonal in nature. The language is central to Oromo cultural identity and has experienced a renaissance in recent decades after periods of suppression.",
+    "audio": "/audio/oromo.mp3",
+    "phrases": [
+      { "original": "Akkam", "transliteration": "Akkam", "meaning": "Hello" },
+      { "original": "Akkam jirta/jirtu", "transliteration": "Akkam jirta/jirtu", "meaning": "How are you? (m/f)" },
+      { "original": "Galatoomi", "transliteration": "Galatoomi", "meaning": "Thank you" },
+      { "original": "Eeyee", "transliteration": "Eeyee", "meaning": "Yes" },
+      { "original": "Lakki", "transliteration": "Lakki", "meaning": "No" },
+      { "original": "Nagaa", "transliteration": "Nagaa", "meaning": "Peace" }
+    ],
+    "culturalEvents": [
+      "Irreecha (Thanksgiving festival) - October",
+      "Gadaa system ceremonies (traditional governance)",
+      "Atete (women's prayer ceremony)",
+      "Gumii Gaayoo (assembly of the Gadaa system)",
+      "Waaqeffanna rituals (traditional Oromo religion)",
+      "Jilaayyuu (new year celebration)"
+    ],
+    "literaryWorks": [
+      "Oromo oral traditions and folklore",
+      "Works by Bakri Sapalo",
+      "Modern literature by Addunya Barkessa",
+      "Poems and songs by Ali Birra"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tigrinya",
+    "speakers": "Approximately 7 million",
+    "region": "Tigray Region and Eritrea",
+    "script": "Ge'ez script (Fidel)",
+    "description": "Tigrinya is a Semitic language spoken by the Tigray people in the Tigray Region of northern Ethiopia and in central Eritrea. It is closely related to the ancient Ge'ez language. Tigrinya uses the Ge'ez script and has a phonology characterized by ejective consonants. The language has preserved many archaic features from Proto-Semitic and has a rich literary tradition connected to the Ethiopian Orthodox Church. Tigrinya is known for its complex verb morphology and noun classification system.",
+    "audio": "/audio/tigrinya.mp3",
+    "phrases": [
+      { "original": "ሰላም", "transliteration": "Selam", "meaning": "Hello/Peace" },
+      { "original": "ከመይ ኣለኻ/ኺ", "transliteration": "Kemey alekha/alekhi", "meaning": "How are you? (m/f)" },
+      { "original": "የቐንየለይ", "transliteration": "Yeqenyeley", "meaning": "Thank you" },
+      { "original": "እወ", "transliteration": "Iwa", "meaning": "Yes" },
+      { "original": "ኣይፋል", "transliteration": "Ayfal", "meaning": "No" },
+      { "original": "ደሓን ቀንየለይ", "transliteration": "Dehan qenyeley", "meaning": "Goodbye" }
+    ],
+    "culturalEvents": [
+      "Ashenda (girls' festival) - August",
+      "Mariam Tsion celebrations - November 30",
+      "Tigray weddings with traditional music",
+      "Hidar Tsion (St. Mary of Zion festival)",
+      "Fiche-Chambalala (New Year celebration)",
+      "Timkat celebrations in Aksum"
+    ],
+    "literaryWorks": [
+      "Religious texts and manuscripts",
+      "Works by Yohannes Gebre Selassie",
+      "Modern poetry by Solomon Deressa",
+      "Tigray folk tales and legends"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Somali",
+    "speakers": "Approximately 6 million in Ethiopia",
+    "region": "Somali Region of Ethiopia",
+    "script": "Latin alphabet",
+    "description": "Somali is a Cushitic language spoken by the Somali people in Ethiopia's Somali Region, Somalia, Djibouti, and parts of Kenya. It has been written in the Latin alphabet since 1972. Somali is known for its extensive case system and focus marking. The language has a rich tradition of oral poetry and verbal art, with specific metrical patterns and alliteration being key features of Somali verse. The language is characterized by its extensive vocabulary related to camel husbandry and nomadic life.",
+    "audio": "/audio/somali.mp3",
+    "phrases": [
+      { "original": "Salaam aleykum", "transliteration": "Salaam aleykum", "meaning": "Peace be upon you" },
+      { "original": "Iska waran", "transliteration": "Iska waran", "meaning": "How are you?" },
+      { "original": "Mahadsanid", "transliteration": "Mahadsanid", "meaning": "Thank you" },
+      { "original": "Haa", "transliteration": "Haa", "meaning": "Yes" },
+      { "original": "Maya", "transliteration": "Maya", "meaning": "No" },
+      { "original": "Nabadgelyo", "transliteration": "Nabadgelyo", "meaning": "Goodbye" }
+    ],
+    "culturalEvents": [
+      "Eid celebrations",
+      "Somali poetry competitions (Gabay)",
+      "Camel festivals",
+      "Istuunka (traditional stick fighting)",
+      "Dhaanto (traditional dance)",
+      "Siyaaro (pilgrimage to saints' tombs)"
+    ],
+    "literaryWorks": [
+      "Epic poems like 'Sayidka iyo Soomaalidu'",
+      "Works by Maxamed Ibraahim Warsame 'Hadraawi'",
+      "Novels by Nuruddin Farah",
+      "Traditional heello and gabay poetry"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sidamo",
+    "speakers": "Approximately 3 million",
+    "region": "Sidama Region",
+    "script": "Latin alphabet and Ge'ez script",
+    "description": "Sidamo (also called Sidaamu Afoo) is a Highland East Cushitic language spoken in parts of southern Ethiopia, particularly in the Sidama Region. It is part of the Cushitic branch of the Afroasiatic language family. Sidamo has a complex system of noun classification and case marking. The language is closely tied to the cultural identity of the Sidama people, who are known for their traditional governance systems and coffee cultivation. Sidamo has both tonal and stress accent features.",
+    "audio": "/audio/sidamo.mp3",
+    "phrases": [
+      { "original": "Halaale", "transliteration": "Halaale", "meaning": "Hello" },
+      { "original": "Attana maallo", "transliteration": "Attana maallo", "meaning": "How are you?" },
+      { "original": "Galatoommo", "transliteration": "Galatoommo", "meaning": "Thank you" },
+      { "original": "Ee", "transliteration": "Ee", "meaning": "Yes" },
+      { "original": "Aane", "transliteration": "Aane", "meaning": "No" },
+      { "original": "Nagaan qaxari", "transliteration": "Nagaan qaxari", "meaning": "Go in peace" }
+    ],
+    "culturalEvents": [
+      "Fichee-Chambalaalla (New Year festival) - UNESCO Intangible Cultural Heritage",
+      "Sidama coffee ceremony",
+      "Traditional Sidama weddings",
+      "Gadabo (traditional governance system ceremonies)",
+      "Weeddo (girls' coming of age ceremony)",
+      "Diroo (boys' coming of age ceremony)"
+    ],
+    "literaryWorks": [
+      "Oral traditions and folklore",
+      "Traditional songs and proverbs",
+      "Modern works by Sidama authors",
+      "Religious texts translated into Sidamo"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gurage",
+    "speakers": "Approximately 2 million",
+    "region": "Gurage Zone in the Southern Nations, Nationalities, and Peoples' Region",
+    "script": "Ge'ez script (Fidel)",
+    "description": "Gurage refers to a group of Semitic languages spoken by the Gurage people in the Gurage Zone. The main varieties include Sebat Bet Gurage, Soddo, and Silt'e. Gurage languages are known for their complex consonant systems and verb morphology. The Gurage people have maintained their linguistic identity despite influences from Amharic. These languages preserve many archaic Semitic features and have a rich oral tradition of stories, proverbs, and riddles.",
+    "audio": "/audio/gurage.mp3",
+    "phrases": [
+      { "original": "ሰላምታ", "transliteration": "Selamta", "meaning": "Greetings" },
+      { "original": "ደህና ነህ/ነሽ", "transliteration": "Dehna neh/nesh", "meaning": "Are you well? (m/f)" },
+      { "original": "አመሰግናለሁ", "transliteration": "Ameseginalehu", "meaning": "Thank you" },
+      { "original": "አዎ", "transliteration": "Awo", "meaning": "Yes" },
+      { "original": "አይ", "transliteration": "Ay", "meaning": "No" },
+      { "original": "ደህና ሁን", "transliteration": "Dehna hun", "meaning": "Goodbye" }
+    ],
+    "culturalEvents": [
+      "Meskel celebrations",
+      "Traditional house-building ceremonies",
+      "Gurage wedding ceremonies",
+      "Ye'Kitcha (traditional New Year)",
+      "Azmari performances (traditional music)",
+      "Enset (false banana) harvesting ceremonies"
+    ],
+    "literaryWorks": [
+      "Oral traditions and folktales",
+      "Traditional songs and poetry",
+      "Religious manuscripts",
+      "Modern works by Gurage authors"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Afar",
+    "speakers": "Approximately 1.5 million",
+    "region": "Afar Region",
+    "script": "Latin alphabet",
+    "description": "Afar (also known as Afaraf) is a Cushitic language spoken by the Afar people in the Afar Region of Ethiopia, as well as in parts of Eritrea and Djibouti. The language uses a Latin-based orthography and features a system of vowel harmony. Afar has preserved many archaic Cushitic features and has a rich vocabulary related to pastoralism and the harsh desert environment of the Afar Depression. The language is central to Afar cultural identity and traditional governance systems.",
+    "audio": "/audio/afar.mp3",
+    "phrases": [
+      { "original": "Assalamu aleykum", "transliteration": "Assalamu aleykum", "meaning": "Peace be upon you" },
+      { "original": "Maha taan", "transliteration": "Maha taan", "meaning": "How are you?" },
+      { "original": "Gadda koo", "transliteration": "Gadda koo", "meaning": "Thank you" },
+      { "original": "Yeey", "transliteration": "Yeey", "meaning": "Yes" },
+      { "original": "Maley", "transliteration": "Maley", "meaning": "No" },
+      { "original": "Nagay tan", "transliteration": "Nagay tan", "meaning": "Goodbye" }
+    ],
+    "culturalEvents": [
+      "Eid celebrations",
+      "Fidel (traditional dance)",
+      "Dagu (traditional communication system)",
+      "Asayta cultural festival",
+      "Traditional camel races",
+      "Marriage ceremonies with traditional music"
+    ],
+    "literaryWorks": [
+      "Oral poetry and songs",
+      "Traditional proverbs and riddles",
+      "Modern works by Afar authors",
+      "Religious texts translated into Afar"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wolaytta",
+    "speakers": "Approximately 2 million",
+    "region": "Wolaytta Zone in the Southern Nations, Nationalities, and Peoples' Region",
+    "script": "Latin alphabet and Ge'ez script",
+    "description": "Wolaytta (also spelled Wolayta or Wolaitta) is an Omotic language spoken by the Wolaytta people in southern Ethiopia. It is one of the most widely spoken languages in the Omotic family. Wolaytta has a complex system of noun classification and verb morphology. The language has been written in both the Ge'ez script and Latin alphabet. Wolaytta has a rich oral tradition of poetry, proverbs, and riddles that reflect the agricultural lifestyle and cultural values of its speakers.",
+    "audio": "/audio/wolaytta.mp3",
+    "phrases": [
+      { "original": "Haro", "transliteration": "Haro", "meaning": "Hello" },
+      { "original": "Ay de'ii?", "transliteration": "Ay de'ii?", "meaning": "How are you?" },
+      { "original": "Galatais", "transliteration": "Galatais", "meaning": "Thank you" },
+      { "original": "Ee", "transliteration": "Ee", "meaning": "Yes" },
+      { "original": "CHii", "transliteration": "CHii", "meaning": "No" },
+      { "original": "Saro de'a", "transliteration": "Saro de'a", "meaning": "Goodbye" }
+    ],
+    "culturalEvents": [
+      "Meskel celebrations",
+      "Gifaata (traditional New Year)",
+      "Wolaytta weddings with traditional music",
+      "Enset (false banana) harvesting ceremonies",
+      "Traditional dance performances",
+      "Agricultural festivals"
+    ],
+    "literaryWorks": [
+      "Oral traditions and folktales",
+      "Traditional songs and poetry",
+      "Modern literature by Wolaytta authors",
+      "Religious texts translated into Wolaytta"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hadiyya",
+    "speakers": "Approximately 1.6 million",
+    "region": "Hadiya Zone in the Southern Nations, Nationalities, and Peoples' Region",
+    "script": "Latin alphabet",
+    "description": "Hadiyya is a Highland East Cushitic language spoken by the Hadiya people in southern Ethiopia. It is closely related to Sidamo and Kambaata. Hadiyya has a complex system of noun classification and case marking. The language has been increasingly documented in recent decades, with a growing body of written materials. Hadiyya has a rich tradition of oral literature, including proverbs, riddles, and songs that reflect the agricultural lifestyle and cultural values of its speakers.",
+    "audio": "/audio/hadiyya.mp3",
+    "phrases": [
+      { "original": "Assalaamu aleykum", "transliteration": "Assalaamu aleykum", "meaning": "Peace be upon you" },
+      { "original": "Worqa yohoo?", "transliteration": "Worqa yohoo?", "meaning": "How are you?" },
+      { "original": "Galatoommo", "transliteration": "Galatoommo", "meaning": "Thank you" },
+      { "original": "Ee", "transliteration": "Ee", "meaning": "Yes" },
+      { "original": "Dee'i", "transliteration": "Dee'i", "meaning": "No" },
+      { "original": "Nagaan", "transliteration": "Nagaan", "meaning": "Peace/Goodbye" }
+    ],
+    "culturalEvents": [
+      "Meskel celebrations",
+      "Traditional Hadiya weddings",
+      "Agricultural festivals",
+      "Traditional dance performances",
+      "Coming of age ceremonies",
+      "Seasonal celebrations"
+    ],
+    "literaryWorks": [
+      "Oral traditions and folktales",
+      "Traditional songs and poetry",
+      "Modern works by Hadiya authors",
+      "Religious texts translated into Hadiyya"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ge'ez",
+    "speakers": "Liturgical language (no native speakers)",
+    "region": "Used in Ethiopian Orthodox Church and Eritrean Orthodox Church",
+    "script": "Ge'ez script (Fidel)",
+    "description": "Ge'ez is an ancient Semitic language that originated in Eritrea and northern Ethiopia. While it is no longer spoken as a native language, it remains the liturgical language of the Ethiopian Orthodox Church and Eritrean Orthodox Church. Ge'ez developed its own script which later became the basis for modern Ethiopian writing systems. The language has an extensive literature, primarily religious in nature, including the Ethiopian Orthodox Bible, liturgical texts, and hagiographies. Ge'ez is to Ethiopia what Latin is to the Roman Catholic Church or Classical Arabic is to Islam.",
+    "audio": "/audio/geez.mp3",
+    "phrases": [
+      { "original": "ሰላም", "transliteration": "Selam", "meaning": "Peace" },
+      { "original": "እግዚአብሔር ይባርክህ", "transliteration": "Egziabher yibarikhi", "meaning": "God bless you" },
+      { "original": "አመሰግነከ", "transliteration": "Amesegineke", "meaning": "I thank you" },
+      { "original": "እወ", "transliteration": "Iwe", "meaning": "Yes" },
+      { "original": "ኢኮነ", "transliteration": "Ikone", "meaning": "No" },
+      { "original": "ሰላም ለኪ", "transliteration": "Selam leki", "meaning": "Peace be with you" }
+    ],
+    "culturalEvents": [
+      "Ethiopian Orthodox liturgical calendar celebrations",
+      "Timkat (Epiphany)",
+      "Meskel (Finding of the True Cross)",
+      "Genna (Ethiopian Christmas)",
+      "Fasika (Ethiopian Easter)",
+      "Saints' days celebrations"
+    ],
+    "literaryWorks": [
+      "Kebra Nagast (Glory of Kings)",
+      "Fetha Nagast (Law of Kings)",
+      "Ethiopian Orthodox Bible",
+      "Synaxarium (Lives of Saints)",
+      "Book of Enoch",
+      "Liturgical hymns and prayers"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Gamo",
+    "speakers": "Approximately 1.1 million",
+    "region": "Gamo Zone in the Southern Nations, Nationalities, and Peoples' Region",
+    "script": "Latin alphabet and Ge'ez script",
+    "description": "Gamo is an Omotic language spoken by the Gamo people in southern Ethiopia. It is closely related to Wolaytta and other Omotic languages of the region. Gamo has a complex system of noun classification and verb morphology. The language has a rich oral tradition that includes songs, proverbs, and folktales reflecting the agricultural lifestyle and cultural values of its speakers. Gamo is increasingly being used in education and media in the Gamo Zone.",
+    "audio": "/audio/gamo.mp3",
+    "phrases": [
+      { "original": "Saro", "transliteration": "Saro", "meaning": "Hello" },
+      { "original": "Ay de'ai?", "transliteration": "Ay de'ai?", "meaning": "How are you?" },
+      { "original": "Galatais", "transliteration": "Galatais", "meaning": "Thank you" },
+      { "original": "E", "transliteration": "E", "meaning": "Yes" },
+      { "original": "CHii", "transliteration": "CHii", "meaning": "No" },
+      { "original": "Saro ba", "transliteration": "Saro ba", "meaning": "Goodbye" }
+    ],
+    "culturalEvents": [
+      "Meskel celebrations",
+      "Traditional Gamo weddings",
+      "Agricultural festivals",
+      "Mask dances",
+      "Seasonal celebrations",
+      "Traditional music performances"
+    ],
+    "literaryWorks": [
+      "Oral traditions and folktales",
+      "Traditional songs and poetry",
+      "Modern works by Gamo authors",
+      "Religious texts translated into Gamo"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Kafa",
+    "speakers": "Approximately 830,000",
+    "region": "Kafa Zone in the Southern Nations, Nationalities, and Peoples' Region",
+    "script": "Latin alphabet and Ge'ez script",
+    "description": "Kafa (also spelled Kaffa) is an Omotic language spoken by the Kafa people in southwestern Ethiopia. The language is named after the historical Kingdom of Kafa, which was known for being the original home of coffee (the word 'coffee' derives from Kafa). The language has a complex tonal system and verb morphology. Kafa has a rich oral tradition that includes songs, proverbs, and folktales reflecting the cultural values and history of its speakers.",
+    "audio": "/audio/kafa.mp3",
+    "phrases": [
+      { "original": "Yero", "transliteration": "Yero", "meaning": "Hello" },
+      { "original": "Ay geti?", "transliteration": "Ay geti?", "meaning": "How are you?" },
+      { "original": "Galatino", "transliteration": "Galatino", "meaning": "Thank you" },
+      { "original": "Ee", "transliteration": "Ee", "meaning": "Yes" },
+      { "original": "Abi", "transliteration": "Abi", "meaning": "No" },
+      { "original": "Nagaan", "transliteration": "Nagaan", "meaning": "Peace/Goodbye" }
+    ],
+    "culturalEvents": [
+      "Meskel celebrations",
+      "Coffee ceremonies",
+      "Traditional Kafa weddings",
+      "Agricultural festivals",
+      "Traditional music performances",
+      "Seasonal celebrations"
+    ],
+    "literaryWorks": [
+      "Oral traditions and folktales",
+      "Traditional songs and poetry",
+      "Modern works by Kafa authors",
+      "Religious texts translated into Kafa"
+    ]
+  }
+]

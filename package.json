@@ -1,0 +1,33 @@
+{
+  "name": "ethotarik",
+  "version": "1.0.0",
+  "description": "Interactive Ethiopian History Web App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "ethiopia",
+    "history",
+    "interactive",
+    "nextjs",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^11.0.3",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.14.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.0"
+  }
+}

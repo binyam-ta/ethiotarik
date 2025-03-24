@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-300;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .btn-primary {
+    @apply px-4 py-2 bg-ethiopia-green text-white rounded-md hover:bg-opacity-90 transition-all duration-300;
+  }
+  
+  .timeline-item {
+    @apply relative border-l-2 border-ethiopia-yellow pl-6 pb-10;
+  }
+  
+  .timeline-dot {
+    @apply absolute -left-[9px] w-4 h-4 rounded-full bg-ethiopia-red;
+  }
+  
+  .map-region {
+    @apply fill-ethiopia-green hover:fill-ethiopia-red transition-all duration-300 cursor-pointer;
+  }
+  
+  .card {
+    @apply bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg;
+  }
+}

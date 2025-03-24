@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Emperor Haile Selassie I",
+    "title": "Emperor of Ethiopia (1930-1974)",
+    "image": "/images/haile-selassie.jpg",
+    "biography": "Born Tafari Makonnen, Haile Selassie was Ethiopia's regent from 1916 to 1930 and emperor from 1930 to 1974. He is a defining figure in modern Ethiopian history, who led the country through Italian occupation, modernization efforts, and onto the world stage.",
+    "achievements": [
+      "Secured Ethiopia's membership in the League of Nations (1923)",
+      "Led resistance against Italian occupation",
+      "Established the Organization of African Unity (OAU) in 1963",
+      "Modernized Ethiopia's education system"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Emperor Menelik II",
+    "title": "Emperor of Ethiopia (1889-1913)",
+    "image": "/images/menelik-ii.jpg",
+    "biography": "Menelik II was Emperor of Ethiopia from 1889 to 1913. He expanded Ethiopia to its modern territorial boundaries and successfully resisted European colonization by defeating Italy at the Battle of Adwa in 1896.",
+    "achievements": [
+      "Victory at the Battle of Adwa (1896)",
+      "Expanded and unified modern Ethiopia",
+      "Established Addis Ababa as the capital city",
+      "Introduced modern infrastructure including railways and telegraph"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Empress Taytu Betul",
+    "title": "Empress of Ethiopia (1889-1913)",
+    "image": "/images/taytu-betul.jpg",
+    "biography": "Taytu Betul was the wife of Emperor Menelik II and a powerful empress in her own right. She was a key military strategist during the First Italo-Ethiopian War and played a significant role in founding Addis Ababa.",
+    "achievements": [
+      "Co-founded Addis Ababa",
+      "Led her own battalion in the Battle of Adwa",
+      "Established the first modern hotel in Ethiopia",
+      "Resisted Italian diplomatic pressure before the war"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Emperor Tewodros II",
+    "title": "Emperor of Ethiopia (1855-1868)",
+    "image": "/images/tewodros.jpg",
+    "biography": "Born Kassa Hailu, Tewodros II was Emperor of Ethiopia from 1855 to 1868. He is known for his attempts to unify and modernize Ethiopia after the Zemene Mesafint (Era of the Princes).",
+    "achievements": [
+      "Began the unification of Ethiopia",
+      "Created the first professional standing army",
+      "Attempted to modernize Ethiopia's military and administration",
+      "Challenged the political power of the Ethiopian Orthodox Church"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Abebe Bikila",
+    "title": "Olympic Marathon Champion",
+    "image": "/images/abebe-bikila.jpg",
+    "biography": "Abebe Bikila was an Ethiopian marathon runner who won Ethiopia's first Olympic gold medal at the 1960 Rome Olympics, running the marathon barefoot. He successfully defended his title at the 1964 Tokyo Olympics.",
+    "achievements": [
+      "First African to win an Olympic gold medal (Rome, 1960)",
+      "Won two consecutive Olympic marathon gold medals",
+      "Set world record times in both Olympic victories",
+      "National hero who inspired generations of Ethiopian runners"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Afewerk Tekle",
+    "title": "Artist",
+    "image": "/images/afewerk-tekle.jpg",
+    "biography": "Afewerk Tekle (1932-2012) was Ethiopia's most celebrated artist. His most famous work, 'African Heritage,' is a stained glass panel at the Africa Hall in Addis Ababa.",
+    "achievements": [
+      "Created the stained glass windows for St. George's Cathedral in Addis Ababa",
+      "Designed the massive 'Total Liberation of Africa' stained glass in Africa Hall",
+      "Received numerous international awards and honors",
+      "Appointed as Ethiopia's Honorary Cultural Ambassador"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Zera Yacob",
+    "title": "Philosopher",
+    "image": "/images/zera-yacob.jpg",
+    "biography": "Zera Yacob (1599-1692) was an Ethiopian philosopher whose work 'Hatata' (Inquiry) developed a rational philosophy centered on the idea that human reason should be the ultimate judge of religious truth.",
+    "achievements": [
+      "Developed rational philosophical arguments in the 17th century",
+      "Advocated for religious tolerance and rational inquiry",
+      "Created one of Africa's most important philosophical texts",
+      "Challenged religious dogmatism through logical reasoning"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Empress Zewditu",
+    "title": "Empress of Ethiopia (1916-1930)",
+    "image": "/images/zewditu.jpg",
+    "biography": "Zewditu was Empress of Ethiopia from 1916 to 1930, the first female head of an internationally recognized state in Africa in the 19th and 20th centuries. She was the daughter of Emperor Menelik II.",
+    "achievements": [
+      "First female monarch of a recognized modern African state",
+      "Maintained Ethiopian independence during a turbulent period",
+      "Preserved Ethiopian Orthodox traditions",
+      "Navigated complex political relationships with European powers"
+    ]
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "name": "Tigray",
+    "capital": "Mekelle",
+    "population": "5.4 million",
+    "description": "Tigray is home to the ancient Aksumite civilization and contains numerous historical sites, including the Debre Damo monastery and the obelisks of Aksum.",
+    "ethnicGroups": ["Tigrayans"],
+    "culturalHighlights": [
+      "Aksum Obelisks",
+      "Debre Damo Monastery",
+      "Yeha Temple",
+      "Ashenda Festival"
+    ],
+    "historicalSignificance": "Tigray was the center of the ancient Aksumite Empire, one of Africa's most powerful states in the first millennium CE. The region contains Ethiopia's most ancient historical sites and was crucial in the development of Ethiopian Orthodox Christianity.",
+    "coordinates": {
+      "lat": 14.1322,
+      "lng": 38.3068
+    },
+    "svgPath": "M120,50 L150,40 L170,60 L160,80 L130,90 L110,70 Z",
+    "color": "#5D9E52",
+    "landmarks": [
+      {
+        "name": "Aksum Obelisks",
+        "description": "Ancient stone monuments dating back to the Kingdom of Aksum, with the largest standing obelisk being 23 meters tall.",
+        "coordinates": {
+          "lat": 14.1309,
+          "lng": 38.7158
+        },
+        "image": "/images/aksum-obelisks.jpg"
+      },
+      {
+        "name": "Debre Damo Monastery",
+        "description": "One of Ethiopia's most ancient monasteries, accessible only by climbing a rope up a sheer cliff face.",
+        "coordinates": {
+          "lat": 14.3748,
+          "lng": 39.2917
+        },
+        "image": "/images/debre-damo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Amhara",
+    "capital": "Bahir Dar",
+    "population": "21.5 million",
+    "description": "Amhara contains the historic cities of Gondar and Lalibela, as well as Lake Tana, the source of the Blue Nile.",
+    "ethnicGroups": ["Amhara"],
+    "culturalHighlights": [
+      "Rock-hewn Churches of Lalibela",
+      "Gondar Castles",
+      "Lake Tana Monasteries",
+      "Timkat Celebrations"
+    ],
+    "historicalSignificance": "The Amhara region was the center of power for much of Ethiopia's imperial history. It contains Lalibela's rock-hewn churches (12th-13th centuries), Gondar's castles (17th-18th centuries), and was central to the development of Amharic literature and Ethiopian Orthodox religious traditions.",
+    "coordinates": {
+      "lat": 11.6500,
+      "lng": 37.9833
+    },
+    "svgPath": "M90,70 L130,60 L150,90 L130,120 L100,110 L80,90 Z",
+    "color": "#4A7C9F",
+    "landmarks": [
+      {
+        "name": "Rock-hewn Churches of Lalibela",
+        "description": "11 medieval monolithic churches carved from solid rock, considered a marvel of engineering and a UNESCO World Heritage site.",
+        "coordinates": {
+          "lat": 12.0315,
+          "lng": 39.0476
+        },
+        "image": "/images/lalibela.jpg"
+      },
+      {
+        "name": "Gondar Castles",
+        "description": "A complex of castles and palaces built by Ethiopian emperors in the 17th and 18th centuries, known as 'Africa's Camelot'.",
+        "coordinates": {
+          "lat": 12.6100,
+          "lng": 37.4667
+        },
+        "image": "/images/gondar.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Oromia",
+    "capital": "Addis Ababa (federal capital)",
+    "population": "35 million",
+    "description": "Oromia is Ethiopia's largest region, surrounding the capital Addis Ababa. It's known for its coffee production and the Bale Mountains National Park.",
+    "ethnicGroups": ["Oromo"],
+    "culturalHighlights": [
+      "Irreecha Festival",
+      "Gadaa System",
+      "Coffee Ceremony",
+      "Sof Omar Cave"
+    ],
+    "historicalSignificance": "The Oromo people have a unique indigenous democratic system called Gadaa, which has been recognized by UNESCO as an intangible cultural heritage. Oromia contains important natural sites like the Bale Mountains and is the heart of Ethiopia's coffee production, a crop central to Ethiopian culture and economy.",
+    "coordinates": {
+      "lat": 8.8000,
+      "lng": 39.8333
+    },
+    "svgPath": "M60,100 L120,80 L160,100 L170,140 L130,170 L80,160 L50,130 Z",
+    "color": "#8BC34A",
+    "landmarks": [
+      {
+        "name": "Bale Mountains National Park",
+        "description": "Home to the Ethiopian wolf, mountain nyala, and diverse flora across various ecological zones from moorland to forest.",
+        "coordinates": {
+          "lat": 6.8750,
+          "lng": 39.7500
+        },
+        "image": "/images/bale-mountains.jpg"
+      },
+      {
+        "name": "Sof Omar Cave",
+        "description": "Africa's longest cave system, with spectacular limestone formations and an underground river.",
+        "coordinates": {
+          "lat": 6.9167,
+          "lng": 40.8500
+        },
+        "image": "/images/sof-omar.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Somali",
+    "capital": "Jigjiga",
+    "population": "5.7 million",
+    "description": "The Somali Region is a vast, arid area in eastern Ethiopia, primarily inhabited by ethnic Somalis who practice pastoralism.",
+    "ethnicGroups": ["Somali"],
+    "culturalHighlights": [
+      "Nomadic Pastoralism",
+      "Camel Herding",
+      "Traditional Somali Poetry",
+      "Islamic Heritage"
+    ],
+    "historicalSignificance": "The Somali region has been part of ancient trade networks connecting the Ethiopian highlands with the Red Sea and Indian Ocean. The region has a rich tradition of oral poetry and literature, and has historically been an important center of Islamic learning in the Horn of Africa.",
+    "coordinates": {
+      "lat": 9.3500,
+      "lng": 42.7900
+    },
+    "svgPath": "M170,110 L200,100 L220,130 L210,170 L180,180 L160,150 Z",
+    "color": "#FFC107",
+    "landmarks": [
+      {
+        "name": "Wabi Shebelle River",
+        "description": "One of Ethiopia's major rivers, flowing through the Somali region before entering Somalia.",
+        "coordinates": {
+          "lat": 7.1167,
+          "lng": 42.0833
+        },
+        "image": "/images/wabi-shebelle.jpg"
+      },
+      {
+        "name": "Jigjiga City",
+        "description": "The capital of the Somali Region, an important center of trade and culture.",
+        "coordinates": {
+          "lat": 9.3500,
+          "lng": 42.7900
+        },
+        "image": "/images/jigjiga.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Afar",
+    "capital": "Semera",
+    "population": "1.8 million",
+    "description": "The Afar Region contains the Danakil Depression, one of the hottest and lowest places on Earth, as well as active volcanoes and salt lakes.",
+    "ethnicGroups": ["Afar"],
+    "culturalHighlights": [
+      "Salt Mining Traditions",
+      "Pastoralist Culture",
+      "Dallol Volcanic Area",
+      "Traditional Afar Dance"
+    ],
+    "historicalSignificance": "The Afar region contains the site where the famous fossil 'Lucy' (Australopithecus afarensis) was discovered, providing crucial evidence about human evolution. The region has also been important for salt mining for centuries, with salt caravans being a distinctive cultural feature.",
+    "coordinates": {
+      "lat": 11.8000,
+      "lng": 41.4400
+    },
+    "svgPath": "M150,70 L180,60 L200,80 L190,110 L160,120 L140,100 Z",
+    "color": "#FF9800",
+    "landmarks": [
+      {
+        "name": "Danakil Depression",
+        "description": "One of the lowest and hottest places on Earth, with colorful sulfur springs, salt flats, and active volcanoes.",
+        "coordinates": {
+          "lat": 14.2417,
+          "lng": 40.3000
+        },
+        "image": "/images/danakil.jpg"
+      },
+      {
+        "name": "Erta Ale Volcano",
+        "description": "An active shield volcano with a persistent lava lake, one of only six in the world.",
+        "coordinates": {
+          "lat": 13.6000,
+          "lng": 40.6667
+        },
+        "image": "/images/erta-ale.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Southern Nations, Nationalities, and Peoples' Region",
+    "capital": "Hawassa",
+    "population": "20 million",
+    "description": "SNNPR is known for its ethnic diversity, with over 45 distinct ethnic groups. The region is known for its coffee production and the Omo Valley's indigenous cultures.",
+    "ethnicGroups": [
+      "Sidama",
+      "Wolayta",
+      "Gurage",
+      "Hadiya",
+      "Konso",
+      "Mursi",
+      "Hamer",
+      "and many others"
+    ],
+    "culturalHighlights": [
+      "Omo Valley Tribes",
+      "Dorze Woven Houses",
+      "Konso Cultural Landscape",
+      "Sidama Coffee Ceremony"
+    ],
+    "historicalSignificance": "The SNNPR contains the UNESCO World Heritage Site of Konso Cultural Landscape, featuring remarkable terraced farming and walled settlements. The Omo Valley is considered a living museum of traditional cultures with unique body decoration, rituals, and lifestyles that have remained largely unchanged for centuries.",
+    "coordinates": {
+      "lat": 6.1500,
+      "lng": 37.7667
+    },
+    "svgPath": "M70,150 L110,140 L130,160 L120,190 L90,200 L60,180 Z",
+    "color": "#9C27B0",
+    "landmarks": [
+      {
+        "name": "Omo Valley",
+        "description": "Home to diverse indigenous tribes with unique cultural practices, body adornments, and traditional lifestyles.",
+        "coordinates": {
+          "lat": 5.8333,
+          "lng": 36.0000
+        },
+        "image": "/images/omo-valley.jpg"
+      },
+      {
+        "name": "Konso Cultural Landscape",
+        "description": "A UNESCO World Heritage site featuring traditional terraced agriculture, walled settlements, and distinctive cultural traditions.",
+        "coordinates": {
+          "lat": 5.2500,
+          "lng": 37.4833
+        },
+        "image": "/images/konso.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gambela",
+    "capital": "Gambela",
+    "population": "0.4 million",
+    "description": "Gambela is a lowland region bordering South Sudan, characterized by rivers, wetlands, and national parks with abundant wildlife.",
+    "ethnicGroups": ["Anuak", "Nuer", "Majangir"],
+    "culturalHighlights": [
+      "Anuak Fishing Traditions",
+      "Nuer Cattle Culture",
+      "Majangir Honey Collection",
+      "Gambela National Park"
+    ],
+    "historicalSignificance": "Gambela has historically been a crossroads between highland Ethiopian cultures and the Nilotic cultures of what is now South Sudan. The region's unique wetland ecosystem has shaped distinctive cultural practices among its inhabitants, particularly related to fishing and river navigation.",
+    "coordinates": {
+      "lat": 8.2500,
+      "lng": 34.5833
+    },
+    "svgPath": "M40,140 L70,130 L80,150 L70,170 L50,180 L30,160 Z",
+    "color": "#2196F3",
+    "landmarks": [
+      {
+        "name": "Gambela National Park",
+        "description": "One of Ethiopia's largest national parks, home to large herds of migrating white-eared kob antelope and other wildlife.",
+        "coordinates": {
+          "lat": 8.3000,
+          "lng": 34.0000
+        },
+        "image": "/images/gambela-park.jpg"
+      },
+      {
+        "name": "Baro River",
+        "description": "A major tributary of the White Nile, providing essential resources for local communities and wildlife.",
+        "coordinates": {
+          "lat": 8.2667,
+          "lng": 34.6000
+        },
+        "image": "/images/baro-river.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Benishangul-Gumuz",
+    "capital": "Asosa",
+    "population": "1 million",
+    "description": "Benishangul-Gumuz is home to the Grand Ethiopian Renaissance Dam on the Blue Nile, and features diverse indigenous cultures.",
+    "ethnicGroups": ["Berta", "Gumuz", "Shinasha", "Mao", "Komo"],
+    "culturalHighlights": [
+      "Traditional Gold Mining",
+      "Gumuz Basket Weaving",
+      "Blue Nile Falls",
+      "Grand Ethiopian Renaissance Dam"
+    ],
+    "historicalSignificance": "The region has been historically important for gold mining, with traditional mining practices dating back centuries. Today, it hosts the Grand Ethiopian Renaissance Dam, Africa's largest hydroelectric power project, which represents a new chapter in Ethiopia's development history.",
+    "coordinates": {
+      "lat": 10.0667,
+      "lng": 34.5500
+    },
+    "svgPath": "M60,80 L90,70 L100,90 L90,110 L70,120 L50,100 Z",
+    "color": "#795548",
+    "landmarks": [
+      {
+        "name": "Grand Ethiopian Renaissance Dam",
+        "description": "Africa's largest hydroelectric power project, being built on the Blue Nile River.",
+        "coordinates": {
+          "lat": 11.2167,
+          "lng": 35.0917
+        },
+        "image": "/images/gerd-dam.jpg"
+      },
+      {
+        "name": "Asosa",
+        "description": "The capital city of the Benishangul-Gumuz Region, known for its traditional gold mining.",
+        "coordinates": {
+          "lat": 10.0667,
+          "lng": 34.5500
+        },
+        "image": "/images/asosa.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Harari",
+    "capital": "Harar",
+    "population": "0.2 million",
+    "description": "Harari is Ethiopia's smallest region, centered around the historic walled city of Harar, known for its distinctive architecture and Islamic heritage.",
+    "ethnicGroups": ["Harari", "Oromo"],
+    "culturalHighlights": [
+      "Jugol (Walled City of Harar)",
+      "Traditional Harari Houses",
+      "Hyena Feeding Tradition",
+      "Harari Coffee Ceremony"
+    ],
+    "historicalSignificance": "Harar is considered the fourth holiest city in Islam and was an important center of Islamic learning and trade in the Horn of Africa. The walled city (Jugol) is a UNESCO World Heritage site, featuring a distinctive architectural style and cultural traditions that reflect centuries of trade connections with the Arabian Peninsula, India, and beyond.",
+    "coordinates": {
+      "lat": 9.3100,
+      "lng": 42.1200
+    },
+    "svgPath": "M175,125 L180,122 L185,125 L183,130 L178,132 L173,128 Z",
+    "color": "#E91E63",
+    "landmarks": [
+      {
+        "name": "Jugol (Walled City)",
+        "description": "A UNESCO World Heritage site with 368 narrow alleyways and over 82 mosques within its ancient walls.",
+        "coordinates": {
+          "lat": 9.3100,
+          "lng": 42.1400
+        },
+        "image": "/images/jugol.jpg"
+      },
+      {
+        "name": "Arthur Rimbaud's House",
+        "description": "A historic house museum in a traditional Harari home, named after the French poet who lived in Harar.",
+        "coordinates": {
+          "lat": 9.3133,
+          "lng": 42.1400
+        },
+        "image": "/images/rimbaud-house.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dire Dawa",
+    "capital": "Dire Dawa",
+    "population": "0.5 million",
+    "description": "Dire Dawa is a chartered city and transportation hub, established around the Addis Ababa-Djibouti Railway.",
+    "ethnicGroups": ["Oromo", "Somali", "Amhara", "Gurage"],
+    "culturalHighlights": [
+      "Historic Railway Station",
+      "Kafira Market",
+      "Cave Paintings at Porc-Epic",
+      "Multicultural Urban Heritage"
+    ],
+    "historicalSignificance": "Dire Dawa was established in 1902 when the Addis Ababa-Djibouti Railway was built, making it a relatively young city by Ethiopian standards. It developed as an important industrial and commercial center, with a unique multicultural character due to its position at the crossroads of different ethnic regions and its history as a railway hub.",
+    "coordinates": {
+      "lat": 9.5900,
+      "lng": 41.8600
+    },
+    "svgPath": "M170,118 L175,115 L180,118 L178,123 L173,125 L168,121 Z",
+    "color": "#FF5722",
+    "landmarks": [
+      {
+        "name": "Dire Dawa Railway Station",
+        "description": "Historic railway station built during the construction of the Addis Ababa-Djibouti railway in the early 1900s.",
+        "coordinates": {
+          "lat": 9.5900,
+          "lng": 41.8600
+        },
+        "image": "/images/dire-dawa-station.jpg"
+      },
+      {
+        "name": "Taiwan Market",
+        "description": "A vibrant open-air market selling a variety of goods, reflecting the city's multicultural heritage.",
+        "coordinates": {
+          "lat": 9.5950,
+          "lng": 41.8650
+        },
+        "image": "/images/taiwan-market.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Addis Ababa",
+    "capital": "Addis Ababa (federal capital)",
+    "population": "4.8 million",
+    "description": "Addis Ababa is Ethiopia's capital and largest city, founded in 1886. It hosts the African Union headquarters and numerous international organizations.",
+    "ethnicGroups": ["Diverse - all Ethiopian ethnic groups represented"],
+    "culturalHighlights": [
+      "National Museum (home of 'Lucy')",
+      "Holy Trinity Cathedral",
+      "Merkato (largest open-air market in Africa)",
+      "Entoto Mountain"
+    ],
+    "historicalSignificance": "Founded by Emperor Menelik II in 1886, Addis Ababa ('New Flower' in Amharic) became the permanent capital of unified Ethiopia. It is the diplomatic capital of Africa, hosting the African Union headquarters. The city witnessed key historical events including the Italian occupation (1936-41), the formation of the OAU in 1963, and the overthrow of the imperial system in 1974.",
+    "coordinates": {
+      "lat": 9.0300,
+      "lng": 38.7500
+    },
+    "svgPath": "M110,125 L115,122 L120,125 L118,130 L113,132 L108,128 Z",
+    "color": "#607D8B",
+    "landmarks": [
+      {
+        "name": "National Museum of Ethiopia",
+        "description": "Home to archaeological and historical artifacts including the famous 3.2 million-year-old fossil 'Lucy'.",
+        "coordinates": {
+          "lat": 9.0370,
+          "lng": 38.7612
+        },
+        "image": "/images/national-museum.jpg"
+      },
+      {
+        "name": "African Union Headquarters",
+        "description": "The headquarters of the African Union, symbolizing Ethiopia's role in pan-African diplomacy.",
+        "coordinates": {
+          "lat": 9.0131,
+          "lng": 38.7630
+        },
+        "image": "/images/au-headquarters.jpg"
+      }
+    ]
+  }
+]

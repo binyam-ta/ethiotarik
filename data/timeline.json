@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Aksumite Empire",
+    "year": "100 CE - 940 CE",
+    "description": "The Kingdom of Aksum was an ancient civilization centered in what is now Eritrea and northern Ethiopia. It was a major trading power in northeastern Africa, with its own currency and connections to the Mediterranean world, Arabia, and India. Aksum adopted Christianity in the 4th century, making it one of the first Christian kingdoms in the world.",
+    "detailedInfo": "The Aksumite Empire was known for its impressive stone stelae, some standing over 30 meters tall. King Ezana's conversion to Christianity around 330 CE marked a turning point in Ethiopian history. Aksum's strategic location allowed it to control trade routes between Africa and Asia, dealing in ivory, gold, emeralds, and spices. The empire began to decline in the 7th-8th centuries due to climate change, shifting trade routes after the rise of Islam, and military pressures.",
+    "keyFigures": ["King Ezana", "Frumentius (Abba Selama)", "Kaleb"],
+    "image": "/images/aksum.jpg",
+    "location": "Northern Ethiopia and Eritrea"
+  },
+  {
+    "id": 2,
+    "title": "Zagwe Dynasty",
+    "year": "900 CE - 1270 CE",
+    "description": "The Zagwe dynasty ruled Ethiopia after the decline of the Aksumite Empire. The most notable achievement of this period was the construction of rock-hewn churches in Lalibela, now a UNESCO World Heritage site.",
+    "detailedInfo": "The Zagwe dynasty originated from the Agaw people of the central highlands. King Lalibela, the dynasty's most famous ruler, is credited with the construction of 11 monolithic rock-hewn churches, carved from a single piece of rock. These architectural marvels were built as a 'New Jerusalem' after Muslim conquests made pilgrimages to the Holy Land difficult. The Zagwe period saw significant development in Ethiopian literature, art, and religious practices.",
+    "keyFigures": ["King Lalibela", "Yemrehana Krestos", "Gebre Mesqel Lalibela"],
+    "image": "/images/lalibela.jpg",
+    "location": "Lasta region, Northern Ethiopia"
+  },
+  {
+    "id": 3,
+    "title": "Solomonic Dynasty Begins",
+    "year": "1270",
+    "description": "Emperor Yekuno Amlak claimed direct descent from the old Aksumite royal house and established the Solomonic dynasty, which would rule Ethiopia with few interruptions until 1974.",
+    "detailedInfo": "The Solomonic dynasty claimed descent from King Solomon of Israel and the Queen of Sheba through their son Menelik I. This lineage was detailed in the Kebra Nagast ('Glory of Kings'), Ethiopia's national epic. Yekuno Amlak overthrew the last Zagwe king with support from the Ethiopian Orthodox Church. The restoration of the 'Solomonic' line was seen as a return to the legitimate rulers of Ethiopia and established a powerful connection between church and state that would define Ethiopian politics for centuries.",
+    "keyFigures": ["Yekuno Amlak", "Amda Seyon I", "Zara Yaqob"],
+    "image": "/images/solomonic.jpg",
+    "location": "Ethiopian Highlands"
+  },
+  {
+    "id": 4,
+    "title": "Ahmad ibn Ibrahim al-Ghazi's Conquest",
+    "year": "1529 - 1543",
+    "description": "Also known as Ahmad Gragn ('the Left-handed'), he led a devastating invasion of Ethiopia, conquering much of the highlands. Portuguese intervention helped Ethiopia defeat his forces.",
+    "detailedInfo": "Ahmad ibn Ibrahim al-Ghazi led forces from the Muslim Sultanate of Adal in what is known as the Ethiopian–Adal War. His armies used firearms obtained from Ottoman allies, giving them a technological advantage. The conflict had religious dimensions, pitting the Christian highlands against Muslim lowlands. Emperor Lebna Dengel sought Portuguese assistance, and his son Gelawdewos, with Portuguese support, defeated Ahmad's forces at the Battle of Wayna Daga in 1543, where Ahmad was killed. The war severely weakened both Ethiopia and Adal, leaving them vulnerable to Oromo migrations that would reshape the region's demographics.",
+    "keyFigures": ["Ahmad ibn Ibrahim al-Ghazi", "Emperor Lebna Dengel", "Emperor Gelawdewos", "Cristóvão da Gama"],
+    "image": "/images/ahmad-gragn.jpg",
+    "location": "Ethiopian Highlands and Horn of Africa"
+  },
+  {
+    "id": 5,
+    "title": "Gondarine Period",
+    "year": "1636 - 1755",
+    "description": "Emperor Fasilides founded a new capital at Gondar, which became a major center of culture, trade, and learning. The period is known for its distinctive architectural style.",
+    "detailedInfo": "After a period of moving capitals, Emperor Fasilides established a permanent capital at Gondar, building the first castle in what would become a royal compound. The Gondarine period saw a flourishing of Ethiopian art, literature, and architecture, with influences from both local traditions and foreign contacts. The distinctive Gondarine style of painting emerged, characterized by bright colors and stylized figures. This era also saw increased contact with European powers, particularly Portugal, and renewed theological debates within the Ethiopian Orthodox Church. The annual Timkat (Epiphany) celebrations at Fasilides' Bath remain an important cultural tradition to this day.",
+    "keyFigures": ["Emperor Fasilides", "Emperor Iyasu I", "Emperor Bakaffa", "Empress Mentewab"],
+    "image": "/images/gondar.jpg",
+    "location": "Gondar, Amhara Region"
+  },
+  {
+    "id": 6,
+    "title": "Era of the Princes (Zemene Mesafint)",
+    "year": "1755 - 1855",
+    "description": "A period of decentralization when regional lords vied for power, while the emperor was reduced to a figurehead. This era ended with the rise of Emperor Tewodros II.",
+    "detailedInfo": "The Zemene Mesafint ('Era of the Princes') began after the death of Emperor Iyoas I and was characterized by civil wars between regional warlords. The emperor in Gondar retained religious significance but held little political power. During this period, Ethiopia was divided into several competing regions, including Shewa, Gojjam, Tigray, and Yejju. The Yejju Oromo dynasty of Ras Ali dominated the imperial court for much of this period. The fragmentation of power made Ethiopia vulnerable to external threats and hindered economic development. This chaotic period created the conditions for the rise of reformist leaders like Tewodros II, who sought to reunify and modernize the country.",
+    "keyFigures": ["Ras Mikael Sehul", "Ras Ali I", "Ras Gugsa", "Ras Ali II", "Dejazmach Wube Haile Maryam"],
+    "image": "/images/zemene-mesafint.jpg",
+    "location": "Ethiopian Highlands"
+  },
+  {
+    "id": 7,
+    "title": "Emperor Tewodros II",
+    "year": "1855 - 1868",
+    "description": "Tewodros II began the modernization of Ethiopia and attempted to reunify the country. His reign ended when he committed suicide rather than surrender to a British expeditionary force.",
+    "detailedInfo": "Born Kassa Hailu, Tewodros II rose from humble beginnings to become emperor through military skill and charismatic leadership. He aimed to modernize Ethiopia by creating a professional army, abolishing the slave trade, reforming taxation, and establishing a centralized government. Tewodros attempted to develop relations with European powers, particularly Britain, but was rebuffed. When British representatives failed to respond to his letters, he imprisoned several European missionaries and the British consul. This led to the 1868 British Expedition to Abyssinia, where British forces stormed his mountain fortress at Magdala. Rather than be captured, Tewodros committed suicide. Despite his tragic end, his vision for a unified, modern Ethiopia influenced subsequent rulers.",
+    "keyFigures": ["Emperor Tewodros II", "Empress Tewabech", "Sir Robert Napier", "Ras Kassa Mercha (later Emperor Yohannes IV)"],
+    "image": "/images/tewodros.jpg",
+    "location": "Magdala, Ethiopian Highlands"
+  },
+  {
+    "id": 8,
+    "title": "Battle of Adwa",
+    "year": "1896",
+    "description": "Ethiopian forces under Emperor Menelik II decisively defeated Italian forces, securing Ethiopia's independence and making it the only African nation to successfully resist European colonization.",
+    "detailedInfo": "The Battle of Adwa resulted from Italy's attempt to establish a protectorate over Ethiopia through the deceptive Treaty of Wuchale, which contained different terms in its Italian and Amharic versions. Emperor Menelik II rejected the treaty and prepared for war. On March 1, 1896, Ethiopian forces of approximately 100,000, led by Emperor Menelik II and Empress Taytu Betul, decisively defeated the Italian army of about 20,000. The victory had profound implications, becoming a symbol of African resistance to European colonialism and inspiring anti-colonial movements across Africa and beyond. Ethiopia's success was due to effective leadership, numerical advantage, knowledge of the terrain, and the ability to obtain modern weapons. After Adwa, Italy recognized Ethiopia's independence in the Treaty of Addis Ababa.",
+    "keyFigures": ["Emperor Menelik II", "Empress Taytu Betul", "Ras Makonnen", "Ras Alula", "General Oreste Baratieri"],
+    "image": "/images/adwa.jpg",
+    "location": "Adwa, Tigray Region"
+  },
+  {
+    "id": 9,
+    "title": "Haile Selassie's Reign",
+    "year": "1930 - 1974",
+    "description": "Emperor Haile Selassie I modernized Ethiopia and raised its international profile. He was a key figure in establishing the Organization of African Unity (now African Union).",
+    "detailedInfo": "Born Tafari Makonnen, Haile Selassie I was crowned emperor in 1930 after serving as regent since 1916. He introduced Ethiopia's first written constitution in 1931 and worked to modernize the country through educational reforms, infrastructure development, and centralization of power. When Italy invaded in 1935, he appealed to the League of Nations but received little support. His speech there warning that 'It is us today, it will be you tomorrow' proved prophetic. After exile in England during the Italian occupation (1936-1941), he returned with Allied support and continued reforms, including establishing Addis Ababa University and helping found the Organization of African Unity in 1963. Despite his international prestige, his rule became increasingly autocratic, and failure to address issues like land reform and famine led to his overthrow in 1974. For Rastafarians, he is considered a divine figure.",
+    "keyFigures": ["Emperor Haile Selassie I", "Empress Menen Asfaw", "Crown Prince Asfaw Wossen", "Princess Tenagnework"],
+    "image": "/images/haile-selassie.jpg",
+    "location": "Addis Ababa, Ethiopia"
+  },
+  {
+    "id": 10,
+    "title": "Italian Occupation",
+    "year": "1936 - 1941",
+    "description": "Fascist Italy briefly occupied Ethiopia during World War II, forcing Emperor Haile Selassie into exile. He returned with British support in 1941.",
+    "detailedInfo": "Mussolini's Italy invaded Ethiopia in October 1935, using superior military technology including air power and chemical weapons. Despite fierce Ethiopian resistance, Addis Ababa fell in May 1936, and Ethiopia was incorporated into Italian East Africa alongside Eritrea and Italian Somaliland. The occupation was marked by brutal repression, including the massacre of thousands after an assassination attempt on Viceroy Rodolfo Graziani in 1937. Ethiopian patriots (Arbegnoch) continued guerrilla resistance throughout the occupation. When World War II began, British forces supported Ethiopian fighters, and in 1941 Emperor Haile Selassie returned to Addis Ababa. The Italian occupation, though brief, left lasting impacts on Ethiopian society, infrastructure, and architecture.",
+    "keyFigures": ["Benito Mussolini", "Marshal Pietro Badoglio", "Viceroy Rodolfo Graziani", "Ras Imru Haile Selassie", "Abebe Aregai"],
+    "image": "/images/italian-occupation.jpg",
+    "location": "Ethiopia"
+  },
+  {
+    "id": 11,
+    "title": "The Derg Regime",
+    "year": "1974 - 1991",
+    "description": "A communist military junta overthrew Emperor Haile Selassie and established a socialist state. The period was marked by political repression, civil war, and famine.",
+    "detailedInfo": "The Derg (meaning 'committee' in Amharic) came to power amid student protests, military mutinies, and a devastating famine that Emperor Haile Selassie's government failed to address. Initially a coordinating committee of military officers, the Derg abolished the monarchy, nationalized land and industries, and aligned with the Soviet Union. Under Mengistu Haile Mariam's leadership, the regime became increasingly brutal, conducting the 'Red Terror' campaign (1977-1978) that killed thousands of suspected opponents. The Derg faced armed resistance from various ethnic-based movements, including the Eritrean People's Liberation Front (EPLF) and the Tigray People's Liberation Front (TPLF). The 1984-1985 famine, exacerbated by civil war and forced resettlement policies, killed an estimated one million people. By 1991, with Soviet support gone and rebel forces advancing, the Derg collapsed and Mengistu fled to Zimbabwe.",
+    "keyFigures": ["Mengistu Haile Mariam", "General Aman Mikael Andom", "General Teferi Benti", "Meles Zenawi (TPLF leader)"],
+    "image": "/images/derg.jpg",
+    "location": "Ethiopia"
+  },
+  {
+    "id": 12,
+    "title": "Federal Democratic Republic",
+    "year": "1991 - Present",
+    "description": "After the fall of the Derg, Ethiopia established a federal system of government. Recent years have seen rapid economic growth and significant political reforms.",
+    "detailedInfo": "The Ethiopian People's Revolutionary Democratic Front (EPRDF), a coalition dominated by the TPLF, established a transitional government in 1991. The 1995 constitution created an ethnic-based federal system dividing the country into regions based on major ethnic groups. Under Prime Minister Meles Zenawi (1995-2012), Ethiopia pursued a state-led development model that achieved impressive economic growth but limited political freedoms. Eritrea gained independence in 1993 after a referendum, but border disputes led to a devastating war (1998-2000). After Meles' death, Hailemariam Desalegn became prime minister until resigning amid protests in 2018. His successor, Abiy Ahmed, initially introduced sweeping reforms, releasing political prisoners, making peace with Eritrea (earning him the 2019 Nobel Peace Prize), and promising free elections. However, ethnic tensions increased, and in 2020 conflict erupted in the Tigray Region, developing into a civil war with severe humanitarian consequences. Despite these challenges, Ethiopia remains a key regional power with one of Africa's fastest-growing economies.",
+    "keyFigures": ["Meles Zenawi", "Hailemariam Desalegn", "Abiy Ahmed", "Sahle-Work Zewde (first female president)"],
+    "image": "/images/modern-ethiopia.jpg",
+    "location": "Ethiopia"
+  },
+  {
+    "id": 13,
+    "title": "Ancient D'mt Kingdom",
+    "year": "c. 980 BCE - c. 400 BCE",
+    "description": "The Kingdom of D'mt was one of the earliest known states in the Ethiopian region, with connections to South Arabia and control of important trade routes.",
+    "detailedInfo": "The Kingdom of D'mt (or Da'amat) emerged in the northern Ethiopian highlands and Eritrea, centered around Yeha. Archaeological evidence suggests cultural and possibly genetic connections with Sabaean (South Arabian) settlers, though the kingdom was primarily an indigenous African civilization. D'mt controlled trade routes linking the Nile Valley with the Red Sea and beyond. The kingdom developed sophisticated irrigation systems, monumental architecture, and iron-working technology, which was relatively early for sub-Saharan Africa. The Temple of Yeha, still standing today, demonstrates the sophisticated masonry techniques of this period. D'mt declined around 400 BCE, eventually giving way to the rise of Aksum.",
+    "keyFigures": ["Unknown - few historical records remain"],
+    "image": "/images/dmt-kingdom.jpg",
+    "location": "Northern Ethiopia and Eritrea"
+  },
+  {
+    "id": 14,
+    "title": "Oromo Migrations",
+    "year": "16th - 17th centuries",
+    "description": "Large-scale population movements of Oromo people throughout the Horn of Africa, significantly altering the region's ethnic and political landscape.",
+    "detailedInfo": "The Oromo migrations (also called Oromo expansions) involved the movement of Oromo pastoralists from southern regions into the Ethiopian highlands and beyond. These migrations were facilitated by the Gadaa system, an age-grade social organization that effectively mobilized warriors. The Oromo expansions occurred during a period when the Ethiopian Empire was weakened by wars with the Sultanate of Adal and subsequent Ottoman-Portuguese conflicts. Oromo groups established new settlements throughout central and southern Ethiopia, parts of Somalia, and northern Kenya. Some Oromo groups maintained their traditional beliefs and social structures, while others assimilated into existing societies, adopting Christianity or Islam. Several Oromo leaders rose to prominence in Ethiopian politics, including the Yejju dynasty that dominated during parts of the Zemene Mesafint period.",
+    "keyFigures": ["Ras Gugsa Mersa", "Ras Ali I", "Ras Ali II", "Ras Gobana Dachi"],
+    "image": "/images/oromo-migrations.jpg",
+    "location": "Horn of Africa"
+  },
+  {
+    "id": 15,
+    "title": "Emperor Yohannes IV",
+    "year": "1872 - 1889",
+    "description": "Yohannes IV ruled Ethiopia between the reigns of Tewodros II and Menelik II, defending the country against Egyptian and Mahdist Sudanese invasions.",
+    "detailedInfo": "Born Kassa Mercha, Yohannes IV was crowned emperor after the death of Tewodros II. His reign was dominated by external threats, including Egyptian expansionism and Mahdist forces from Sudan. He defeated Egyptian forces at the Battles of Gundet (1875) and Gura (1876), securing Ethiopia's northern borders. Yohannes worked to centralize authority while allowing regional kings like Menelik of Shewa (later Menelik II) significant autonomy. He was a devout Orthodox Christian and attempted to force Muslims to convert. In 1889, Yohannes was killed fighting Mahdist forces at the Battle of Gallabat. His death created a power vacuum that allowed Menelik II to claim the imperial throne. Yohannes' legacy includes maintaining Ethiopian independence during a period of increasing European colonization in Africa.",
+    "keyFigures": ["Emperor Yohannes IV", "Ras Alula Engida", "Negus Tekle Haymanot of Gojjam", "Negus Menelik of Shewa"],
+    "image": "/images/yohannes-iv.jpg",
+    "location": "Tigray and Ethiopian Highlands"
+  },
+  {
+    "id": 16,
+    "title": "Great Ethiopian Famine",
+    "year": "1888 - 1892",
+    "description": "A catastrophic famine that killed approximately one-third of Ethiopia's population, caused by a combination of cattle plague, drought, and locust infestations.",
+    "detailedInfo": "The Great Ethiopian Famine, known in Amharic as 'Kifu Qan' (Evil Days), was one of the worst natural disasters in Ethiopian history. It began with the introduction of rinderpest (cattle plague) from infected Indian cattle imported by Italian forces in Eritrea. The disease decimated Ethiopia's cattle population, destroying both a food source and the oxen needed for plowing. This was compounded by drought and locust swarms that destroyed crops. The resulting famine killed an estimated one-third of Ethiopia's population. The disaster weakened Ethiopia just before the Battle of Adwa, making Menelik II's victory over the Italians even more remarkable. The famine also disrupted traditional social structures and land ownership patterns, with long-term consequences for Ethiopian society.",
+    "keyFigures": ["Emperor Menelik II", "Empress Taytu Betul", "Ras Makonnen Woldemikael"],
+    "image": "/images/ethiopian-famine.jpg",
+    "location": "Ethiopia"
+  }
+]
